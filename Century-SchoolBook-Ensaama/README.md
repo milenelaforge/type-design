@@ -6,16 +6,14 @@ Century Schoolbook Ensaama includes a new set of numbered chips automatise with 
 These chips are made to be use in small size for numbering footnotes and image captions, for example.   
 Century Schoolbook Ensaama was designed as part of the artistic direction of the ENSAAMA DSAA students' thesis collection. 
 
+## Specimen
+
+![CenturySchoolBookEnsaama_specimen_02](https://github.com/milenelaforge/type-design/blob/main/Century-SchoolBook-Ensaama/documentation/CenturySchoolBookEnsaama_specimen_02.gif)  
+
 ## In use 
 
 ![CenturySchoolBookEnsaama_in-use_03](https://github.com/milenelaforge/type-design/blob/main/Century-SchoolBook-Ensaama/in-use/CenturySchoolBookEnsaama_in-use_03.jpg)
 ![CenturySchoolBookEnsaama_in-use_02](https://github.com/milenelaforge/type-design/blob/main/Century-SchoolBook-Ensaama/in-use/CenturySchoolBookEnsaama_in-use_02.jpg)
-
-
-## Specimen
-
-![CenturySchoolBookEnsaama_specimen_01](https://github.com/milenelaforge/type-design/blob/main/Century-SchoolBook-Ensaama/documentation/CenturySchoolBookEnsaama_specimen_01.jpg)  
-![CenturySchoolBookEnsaama_specimen_02](https://github.com/milenelaforge/type-design/blob/main/Century-SchoolBook-Ensaama/documentation/CenturySchoolBookEnsaama_specimen_02.gif)  
 
 ## License
 
