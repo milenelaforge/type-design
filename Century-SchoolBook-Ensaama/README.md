@@ -8,9 +8,9 @@ Century Schoolbook Ensaama was designed as part of the artistic direction of the
 
 ## In use 
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">  
 ![CenturySchoolBookEnsaama_in-use_03](https://github.com/milenelaforge/type-design/blob/main/Century-SchoolBook-Ensaama/in-use/CenturySchoolBookEnsaama_in-use_03.jpg)
-![CenturySchoolBookEnsaama_in-use_02](https://github.com/milenelaforge/type-design/blob/main/Century-SchoolBook-Ensaama/in-use/CenturySchoolBookEnsaama_in-use_02.jpg)
+![CenturySchoolBookEnsaama_in-use_02](https://github.com/milenelaforge/type-design/blob/main/Century-SchoolBook-Ensaama/in-use/CenturySchoolBookEnsaama_in-use_02.jpg)  
 </div>
 
 ## Specimen
