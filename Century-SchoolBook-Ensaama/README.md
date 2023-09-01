@@ -14,7 +14,8 @@ Century Schoolbook Ensaama was designed as part of the artistic direction of the
 
 ## Specimen
 
-![Demo-Italic-v1.001-specimen-001](https://github.com/raphaelbastide/Unified-Font-Repository/master/documentation/images/Demo-Italic-v1.001-specimen-001.png)
+![CenturySchoolBookEnsaama_specimen_01](https://github.com/milenelaforge/type-design/blob/main/Century-SchoolBook-Ensaama/documentation/CenturySchoolBookEnsaama_specimen_01.jpg)  
+![CenturySchoolBookEnsaama_specimen_02](https://github.com/milenelaforge/type-design/blob/main/Century-SchoolBook-Ensaama/documentation/CenturySchoolBookEnsaama_specimen_02.gif)  
 
 ## License
 
