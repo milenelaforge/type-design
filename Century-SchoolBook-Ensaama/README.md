@@ -1,10 +1,15 @@
 # Century Schoolbook Ensaama
 
-Century Schoolbook Ensaama a été dessiné dans le cadre de la direction artisitique et mise en page d'une collection éditoriale déployée   
-sur différentes sections de l’ENSAAMA pour les mémoires 2021 des étudiants en DSAA. 
-Font custom of the C059 or New Century Schoolbook, a serif typeface based on the Century Schoolbook designed by Morris Fuller Benton in 1919.  
+Font custom of the C059 (or New Century Schoolbook), a serif typeface based on the Century Schoolbook designed by Morris Fuller Benton in 1919.  
 The C059 / New Century Schoolbook was designed by URW Type Foundry and released under SIL Open Font License.  
-Century Schoolbook Ensaama includes a new set of numbered chips automatise with Opentypes features. These chips are made to be use in small size 
+Century Schoolbook Ensaama includes a new set of numbered chips automatise with Opentypes features.   
+These chips are made to be use in small size for numbering footnotes and image captions, for example.   
+Century Schoolbook Ensaama was designed as part of the artistic direction of the ENSAAMA DSAA students' thesis collection. 
+
+## In use 
+
+![CenturySchoolBookEnsaama_in-use_03](https://github.com/milenelaforge/type-design/blob/main/Century-SchoolBook-Ensaama/in-use/CenturySchoolBookEnsaama_in-use_03.jpg)
+![CenturySchoolBookEnsaama_in-use_02](https://github.com/milenelaforge/type-design/blob/main/Century-SchoolBook-Ensaama/in-use/CenturySchoolBookEnsaama_in-use_02.jpg)
 
 ## Specimen
 
