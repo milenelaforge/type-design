@@ -7,8 +7,9 @@ Poppy was created in February 2023 and exists at this date in capital and only i
 ## Specimen
 
 ![Poppy_specimen_01](https://github.com/milenelaforge/type-design/blob/main/Poppy/documentation/Poppy_specimen_01.jpg)  
-![Poppy_specimen_01](https://github.com/milenelaforge/type-design/blob/main/Poppy/documentation/Poppy_specimen_02.jpg)  
-![Poppy_specimen_01](https://github.com/milenelaforge/type-design/blob/main/Poppy/documentation/Poppy_specimen_03.jpg)  
+![Poppy_specimen_02](https://github.com/milenelaforge/type-design/blob/main/Poppy/documentation/Poppy_specimen_02.jpg)  
+![Poppy_specimen_03](https://github.com/milenelaforge/type-design/blob/main/Poppy/documentation/Poppy_specimen_03.jpg)  
+![Poppy_specimen_04](https://github.com/milenelaforge/type-design/blob/main/Poppy/documentation/Poppy_specimen_06.jpg)  
 
 
 ## License
